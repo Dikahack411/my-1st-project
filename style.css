@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* border: 0; */
+}
+
+body {
+    /* background-image: url(2gb.jpg); */
+    /* background-color: aqua; */
+    color: black;
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
